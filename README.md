@@ -3,5 +3,6 @@ In order to complete this analysis, we launched an NLP survey to collect people'
 
 Please load our survey dataset which is necessary to our analysis and ShinyDashboard.
 
+Once download the dataset and the ui and server, go to line 25 and line 26,change the working directory to where you store you dataset. And change the file path.
 
 
